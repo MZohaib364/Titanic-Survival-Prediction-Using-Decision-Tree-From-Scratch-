@@ -6,12 +6,11 @@ This project implements a **Decision Tree Classifier** from scratch to predict p
 
 - **Dataset:** Titanic Passenger Data (Kaggle or similar)  
 - **Algorithm:** Custom-built Decision Tree Classifier  
-- **Objective:** Predict whether a passenger survived the Titanic disaster  
-- **Features Used:** Passenger class, gender, age, fare, etc.  
+- **Objective:** Predict whether a passenger survived the Titanic disaster
 
 ## 🔥 Key Features
 
-- Custom implementation of **entropy** and **information gain** for optimal splitting  
+- Custom implementation of **entropy** for optimal splitting  
 - Manual handling of **data preprocessing** (missing values, encoding, etc.)  
 - Visualization of decision-making processes within the tree  
-- Performance evaluation using **accuracy** and other metrics  
+- Performance evaluation using **accuracy**  
